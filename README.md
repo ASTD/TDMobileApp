@@ -1,6 +1,5 @@
-ionic-angular-cordova-seed
+ASTD TD App
 ==========================
 
-The perfect starting point for an Ionic project.
+This project uses ionic framework with Angular JS and PhoneGap.
 
-- [Ionic Tutorials](http://ionicframework.com/tutorials/)

@@ -1,14 +1,8 @@
-// Ionic Starter App, v0.9.20
-
-// angular.module is a global place for creating, registering and retrieving Angular modules
-// 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
-// the 2nd parameter is an array of 'requires'
-// 'starter.services' is found in services.js
-// 'starter.controllers' is found in controllers.js
-angular.module('starter', ['ionic', 'starter.services', 'starter.controllers'])
 
 
-.config(function($stateProvider, $urlRouterProvider) {
+angular.module('tdmag', ['ionic', 'tdmag.services', 'tdmag.controllers', 'tdmag.directives'])
+	
+	.config(function($stateProvider, $urlRouterProvider) {
 
   // Ionic uses AngularUI Router which uses the concept of states
   // Learn more here: https://github.com/angular-ui/ui-router
@@ -24,46 +18,93 @@ angular.module('starter', ['ionic', 'starter.services', 'starter.controllers'])
     })
 
     // the pet tab has its own child nav-view and history
-    .state('tab.pet-index', {
-      url: '/pets',
+    .state('tab.news-index', {
+      url: '/news',
       views: {
-        'pets-tab': {
-          templateUrl: 'templates/pet-index.html',
-          controller: 'PetIndexCtrl'
+        'news-tab': {
+          templateUrl: 'templates/news-index.html',
+          controller: 'NewsController'
+        }
+      }
+    })
+	
+	
+
+    .state('tab.news-detail', {
+      url: '/news/:articleId',
+      views: {
+        'news-tab': {
+          templateUrl: 'templates/news-detail.html',
+          controller: 'NewsDetailController'
         }
       }
     })
 
-    .state('tab.pet-detail', {
-      url: '/pet/:petId',
+
+    .state('tab.magazine-index', {
+      url: '/magazine',
       views: {
-        'pets-tab': {
-          templateUrl: 'templates/pet-detail.html',
-          controller: 'PetDetailCtrl'
+        'magazine-tab': {
+          templateUrl: 'templates/magazine-index.html',
+          controller: 'MagazineController'
+        }
+      }
+    })
+	
+    .state('tab.magazine-detail', {
+      url: '/magazine/:articleId',
+      views: {
+        'magazine-tab': {
+          templateUrl: 'templates/magazine-detail.html',
+          controller: 'MagazineDetailController'
+        }
+      }
+    })
+	
+    .state('tab.podcast-index', {
+      url: '/podcast',
+      views: {
+        'podcast-tab': {
+          templateUrl: 'templates/podcast-index.html',
+		  controller: 'PodcastController'
         }
       }
     })
 
-    .state('tab.adopt', {
-      url: '/adopt',
+    .state('tab.podcast-detail', {
+      url: '/podcast/:articleId',
       views: {
-        'adopt-tab': {
-          templateUrl: 'templates/adopt.html'
+        'podcast-tab': {
+          templateUrl: 'templates/podcast-detail.html',
+		  controller: 'PodcastDetailController'
         }
       }
     })
-
-    .state('tab.about', {
-      url: '/about',
+	
+    .state('tab.twitter-index', {
+      url: '/twitter',
       views: {
-        'about-tab': {
-          templateUrl: 'templates/about.html'
+        'twitter-tab': {
+          templateUrl: 'templates/twitter-index.html',
+		  controller: 'TwitterController'
         }
       }
-    });
+    })
+	
+	
+    .state('tab.twitter-detail', {
+      url: '/twitter/:id',
+      views: {
+        'twitter-tab': {
+          templateUrl: 'templates/twitter-detail.html'
+        }
+      }
+    })
+	
+	;
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/tab/pets');
+  $urlRouterProvider.otherwise('/tab/news');
 
 });
 

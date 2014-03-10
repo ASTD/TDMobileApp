@@ -1,0 +1,13 @@
+<view title="'T+D News'">
+	<content has-header="true" has-tabs="true">
+		<list>
+			<div ng-repeat="newsItem in news">
+				<a class="item item-avatar" href="#/tab/news/{{$index}}">
+					<img ng-src="{{newsItem.headshot}}">
+					<h2>{{newsItem.t}}</h2>
+					<p>{{newsItem.aut}}<br/><span>{{newsItem.date}}</span></p>
+				</a>
+			</div>
+		</list>
+	</content>
+</view>

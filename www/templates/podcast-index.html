@@ -1,0 +1,13 @@
+<view title="'T+D Podcasts'">
+	<content has-header="true" has-tabs="true">
+		<list>
+			<div ng-repeat="podcast in podcasts">
+				<a class="item item-avatar" href="#/tab/podcast/{{$index}}">
+					<img ng-src="{{podcast.headshot}}">
+					<h2>{{podcast.t}}</h2>
+					<p>{{podcast.aut}}<br/><span>{{podcast.date}}</span></p>
+				</a>
+			</div>
+		</list>
+	</content>
+</view>
