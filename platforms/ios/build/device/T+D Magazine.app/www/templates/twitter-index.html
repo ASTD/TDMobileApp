@@ -1,0 +1,13 @@
+<view title="'Tweets'">
+	<content has-header="true" has-tabs="true">
+		<list>
+			<div ng-repeat="tweet in tweets">
+				<a class="item item-avatar" twitterfeed data-tweetlink="{{tweet.link}}" href="javascript:void(0)">
+					<img ng-src="{{tweet.headshot}}">
+					<h2>{{tweet.name}}</h2>
+					<p>{{tweet.text}}</p>
+				</a>
+			</div>
+		</list>
+	</content>
+</view>

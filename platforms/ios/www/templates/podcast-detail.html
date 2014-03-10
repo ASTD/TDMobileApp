@@ -1,0 +1,25 @@
+<view title="title">
+	<content has-header="true" padding="true">
+		<div class="list card">
+
+			<div class="item item-avatar">
+				<img ng-src="{{article.headshot}}">
+				<h2>{{ article.t }}</h2>
+				<p>{{article.date}}</p>
+			</div>	
+
+			
+			<div id="audio" data-podcast="{{trustSrc(article.url)}}" type="audio/mpeg">
+			
+				<div class="item item-body">    
+					<div class="form-group">
+						<button class="button button-light" player>
+							<span class="ion-play"></span>
+							<span class="ion-pause"></span>
+							<span id="playAction">Play</span>
+						</button>
+					</div>
+				</div>
+			</div>   
+	</content>
+</view>

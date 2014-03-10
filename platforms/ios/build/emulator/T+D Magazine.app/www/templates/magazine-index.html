@@ -1,0 +1,13 @@
+<view title="'T+D Magazine'">
+	<content has-header="true" has-tabs="true">
+		<list>
+			<div ng-repeat="mag in mags">
+				<a class="item item-avatar" href="#/tab/magazine/{{$index}}">
+					<img ng-src="{{mag.headshot}}">
+					<h2>{{mag.t}}</h2>
+					<p>{{mag.aut}}<br/><span>{{mag.date}}</span></p>
+				</a>
+			</div>
+		</list>
+	</content>
+</view>

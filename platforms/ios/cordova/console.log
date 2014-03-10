@@ -1,0 +1,696 @@
+2014-01-28 23:42:14.020 StarterApp[4781:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-28 23:42:14.028 StarterApp[4781:80b] Unlimited access to network resources
+2014-01-28 23:42:14.127 StarterApp[4781:80b] Resetting plugins due to page load.
+2014-01-28 23:42:14.415 StarterApp[4781:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/pets
+2014-01-29 00:08:05.047 StarterApp[6035:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:08:05.055 StarterApp[6035:80b] Unlimited access to network resources
+2014-01-29 00:08:05.149 StarterApp[6035:80b] Resetting plugins due to page load.
+2014-01-29 00:08:05.331 StarterApp[6035:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:13:32.198 StarterApp[6774:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:13:32.203 StarterApp[6774:80b] Unlimited access to network resources
+2014-01-29 00:13:32.298 StarterApp[6774:80b] Resetting plugins due to page load.
+2014-01-29 00:13:32.493 StarterApp[6774:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:14:57.524 StarterApp[7528:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:14:57.529 StarterApp[7528:80b] Unlimited access to network resources
+2014-01-29 00:14:57.623 StarterApp[7528:80b] Resetting plugins due to page load.
+2014-01-29 00:14:57.831 StarterApp[7528:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:17:23.534 StarterApp[8289:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:17:23.540 StarterApp[8289:80b] Unlimited access to network resources
+2014-01-29 00:17:23.622 StarterApp[8289:80b] Resetting plugins due to page load.
+2014-01-29 00:17:23.804 StarterApp[8289:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:33:28.430 StarterApp[9128:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:33:28.436 StarterApp[9128:80b] Unlimited access to network resources
+2014-01-29 00:33:28.513 StarterApp[9128:80b] Resetting plugins due to page load.
+2014-01-29 00:33:28.711 StarterApp[9128:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:39:58.246 StarterApp[9847:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:39:58.252 StarterApp[9847:80b] Unlimited access to network resources
+2014-01-29 00:39:58.342 StarterApp[9847:80b] Resetting plugins due to page load.
+2014-01-29 00:39:58.513 StarterApp[9847:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:42:48.890 StarterApp[10587:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:42:48.895 StarterApp[10587:80b] Unlimited access to network resources
+2014-01-29 00:42:48.919 StarterApp[10587:80b] [CDVTimer][statusbar] 7.906020ms
+2014-01-29 00:42:48.920 StarterApp[10587:80b] [CDVTimer][TotalPluginStartup] 8.399010ms
+2014-01-29 00:42:49.017 StarterApp[10587:80b] Resetting plugins due to page load.
+2014-01-29 00:42:49.212 StarterApp[10587:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:45:01.666 StarterApp[11298:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:45:01.673 StarterApp[11298:80b] Unlimited access to network resources
+2014-01-29 00:45:01.697 StarterApp[11298:80b] [CDVTimer][statusbar] 7.313013ms
+2014-01-29 00:45:01.698 StarterApp[11298:80b] [CDVTimer][TotalPluginStartup] 7.835984ms
+2014-01-29 00:45:01.791 StarterApp[11298:80b] Resetting plugins due to page load.
+2014-01-29 00:45:01.985 StarterApp[11298:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:45:55.919 StarterApp[12000:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:45:55.925 StarterApp[12000:80b] Unlimited access to network resources
+2014-01-29 00:45:55.948 StarterApp[12000:80b] [CDVTimer][statusbar] 6.493032ms
+2014-01-29 00:45:55.949 StarterApp[12000:80b] [CDVTimer][TotalPluginStartup] 6.908000ms
+2014-01-29 00:45:56.046 StarterApp[12000:80b] Resetting plugins due to page load.
+2014-01-29 00:45:56.215 StarterApp[12000:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:51:02.949 StarterApp[12761:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:51:02.957 StarterApp[12761:80b] Unlimited access to network resources
+2014-01-29 00:51:02.982 StarterApp[12761:80b] [CDVTimer][statusbar] 6.793022ms
+2014-01-29 00:51:02.983 StarterApp[12761:80b] [CDVTimer][TotalPluginStartup] 7.202983ms
+2014-01-29 00:51:03.072 StarterApp[12761:80b] Resetting plugins due to page load.
+2014-01-29 00:51:03.297 StarterApp[12761:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:51:30.370 StarterApp[13463:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:51:30.375 StarterApp[13463:80b] Unlimited access to network resources
+2014-01-29 00:51:30.400 StarterApp[13463:80b] [CDVTimer][statusbar] 6.496966ms
+2014-01-29 00:51:30.400 StarterApp[13463:80b] [CDVTimer][TotalPluginStartup] 6.928980ms
+2014-01-29 00:51:30.487 StarterApp[13463:80b] Resetting plugins due to page load.
+2014-01-29 00:51:30.717 StarterApp[13463:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:53:12.468 StarterApp[14193:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:53:12.473 StarterApp[14193:80b] Unlimited access to network resources
+2014-01-29 00:53:12.498 StarterApp[14193:80b] [CDVTimer][statusbar] 7.588983ms
+2014-01-29 00:53:12.498 StarterApp[14193:80b] [CDVTimer][TotalPluginStartup] 7.988989ms
+2014-01-29 00:53:12.591 StarterApp[14193:80b] Resetting plugins due to page load.
+2014-01-29 00:53:12.848 StarterApp[14193:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+Terminating in response to SpringBoard's termination.
+2014-01-29 00:54:41.909 StarterApp[14922:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:54:41.914 StarterApp[14922:80b] Unlimited access to network resources
+2014-01-29 00:54:41.940 StarterApp[14922:80b] [CDVTimer][statusbar] 7.371008ms
+2014-01-29 00:54:41.940 StarterApp[14922:80b] [CDVTimer][TotalPluginStartup] 7.800996ms
+2014-01-29 00:54:42.035 StarterApp[14922:80b] Resetting plugins due to page load.
+2014-01-29 00:54:42.281 StarterApp[14922:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 00:55:22.226 StarterApp[15624:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 00:55:22.232 StarterApp[15624:80b] Unlimited access to network resources
+2014-01-29 00:55:22.255 StarterApp[15624:80b] [CDVTimer][statusbar] 6.449997ms
+2014-01-29 00:55:22.255 StarterApp[15624:80b] [CDVTimer][TotalPluginStartup] 6.913960ms
+2014-01-29 00:55:22.349 StarterApp[15624:80b] Resetting plugins due to page load.
+2014-01-29 00:55:22.538 StarterApp[15624:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+Terminating in response to SpringBoard's termination.
+2014-01-29 01:01:06.063 StarterApp[16375:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:01:06.068 StarterApp[16375:80b] Unlimited access to network resources
+2014-01-29 01:01:06.091 StarterApp[16375:80b] [CDVTimer][statusbar] 6.942987ms
+2014-01-29 01:01:06.091 StarterApp[16375:80b] [CDVTimer][TotalPluginStartup] 7.366002ms
+2014-01-29 01:01:06.190 StarterApp[16375:80b] Resetting plugins due to page load.
+2014-01-29 01:01:06.409 StarterApp[16375:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 01:04:57.928 StarterApp[17100:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:04:57.933 StarterApp[17100:80b] Unlimited access to network resources
+2014-01-29 01:04:57.955 StarterApp[17100:80b] [CDVTimer][statusbar] 5.311012ms
+2014-01-29 01:04:57.955 StarterApp[17100:80b] [CDVTimer][TotalPluginStartup] 5.679965ms
+2014-01-29 01:04:58.030 StarterApp[17100:80b] Resetting plugins due to page load.
+2014-01-29 01:04:58.141 StarterApp[17100:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html
+2014-01-29 01:07:40.438 StarterApp[17845:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:07:40.444 StarterApp[17845:80b] Unlimited access to network resources
+2014-01-29 01:07:40.469 StarterApp[17845:80b] [CDVTimer][statusbar] 6.968021ms
+2014-01-29 01:07:40.470 StarterApp[17845:80b] [CDVTimer][TotalPluginStartup] 7.409036ms
+2014-01-29 01:07:40.576 StarterApp[17845:80b] Resetting plugins due to page load.
+2014-01-29 01:07:40.682 StarterApp[17845:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html
+2014-01-29 01:08:06.385 StarterApp[18565:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:08:06.393 StarterApp[18565:80b] Unlimited access to network resources
+2014-01-29 01:08:06.416 StarterApp[18565:80b] [CDVTimer][statusbar] 6.594002ms
+2014-01-29 01:08:06.416 StarterApp[18565:80b] [CDVTimer][TotalPluginStartup] 7.035017ms
+2014-01-29 01:08:06.507 StarterApp[18565:80b] Resetting plugins due to page load.
+2014-01-29 01:08:06.627 StarterApp[18565:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html
+2014-01-29 01:09:50.271 StarterApp[19306:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:09:50.277 StarterApp[19306:80b] Unlimited access to network resources
+2014-01-29 01:09:50.298 StarterApp[19306:80b] [CDVTimer][statusbar] 5.501986ms
+2014-01-29 01:09:50.298 StarterApp[19306:80b] [CDVTimer][TotalPluginStartup] 5.968034ms
+2014-01-29 01:09:50.389 StarterApp[19306:80b] Resetting plugins due to page load.
+2014-01-29 01:09:50.620 StarterApp[19306:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 01:10:50.109 StarterApp[20027:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:10:50.114 StarterApp[20027:80b] Unlimited access to network resources
+2014-01-29 01:10:50.138 StarterApp[20027:80b] [CDVTimer][statusbar] 6.622016ms
+2014-01-29 01:10:50.139 StarterApp[20027:80b] [CDVTimer][TotalPluginStartup] 7.093966ms
+2014-01-29 01:10:50.251 StarterApp[20027:80b] Resetting plugins due to page load.
+2014-01-29 01:10:50.431 StarterApp[20027:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 01:12:33.189 StarterApp[20749:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:12:33.195 StarterApp[20749:80b] Unlimited access to network resources
+2014-01-29 01:12:33.218 StarterApp[20749:80b] [CDVTimer][statusbar] 5.555034ms
+2014-01-29 01:12:33.218 StarterApp[20749:80b] [CDVTimer][TotalPluginStartup] 5.909979ms
+2014-01-29 01:12:33.316 StarterApp[20749:80b] Resetting plugins due to page load.
+2014-01-29 01:12:33.530 StarterApp[20749:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 01:14:56.255 StarterApp[21499:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:14:56.261 StarterApp[21499:80b] Unlimited access to network resources
+2014-01-29 01:14:56.283 StarterApp[21499:80b] [CDVTimer][statusbar] 5.562961ms
+2014-01-29 01:14:56.284 StarterApp[21499:80b] [CDVTimer][TotalPluginStartup] 5.939007ms
+2014-01-29 01:14:56.381 StarterApp[21499:80b] Resetting plugins due to page load.
+2014-01-29 01:14:56.564 StarterApp[21499:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 01:17:24.035 StarterApp[22252:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:17:24.041 StarterApp[22252:80b] Unlimited access to network resources
+2014-01-29 01:17:24.064 StarterApp[22252:80b] [CDVTimer][statusbar] 7.722020ms
+2014-01-29 01:17:24.065 StarterApp[22252:80b] [CDVTimer][TotalPluginStartup] 8.123994ms
+2014-01-29 01:17:24.170 StarterApp[22252:80b] Resetting plugins due to page load.
+2014-01-29 01:17:24.347 StarterApp[22252:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 01:21:40.515 StarterApp[23052:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:21:40.520 StarterApp[23052:80b] Unlimited access to network resources
+2014-01-29 01:21:40.544 StarterApp[23052:80b] [CDVTimer][statusbar] 5.812943ms
+2014-01-29 01:21:40.544 StarterApp[23052:80b] [CDVTimer][TotalPluginStartup] 6.240010ms
+2014-01-29 01:21:40.629 StarterApp[23052:80b] Resetting plugins due to page load.
+2014-01-29 01:21:40.805 StarterApp[23052:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 01:22:29.253 StarterApp[23771:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 01:22:29.260 StarterApp[23771:80b] Unlimited access to network resources
+2014-01-29 01:22:29.282 StarterApp[23771:80b] [CDVTimer][statusbar] 6.247044ms
+2014-01-29 01:22:29.282 StarterApp[23771:80b] [CDVTimer][TotalPluginStartup] 6.689012ms
+2014-01-29 01:22:29.371 StarterApp[23771:80b] Resetting plugins due to page load.
+2014-01-29 01:22:29.576 StarterApp[23771:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 10:27:06.326 StarterApp[1128:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 10:27:06.349 StarterApp[1128:80b] Unlimited access to network resources
+2014-01-29 10:27:06.555 StarterApp[1128:80b] [CDVTimer][statusbar] 47.921002ms
+2014-01-29 10:27:06.556 StarterApp[1128:80b] [CDVTimer][TotalPluginStartup] 48.291981ms
+2014-01-29 10:27:06.694 StarterApp[1128:80b] Resetting plugins due to page load.
+2014-01-29 10:27:06.942 StarterApp[1128:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 10:30:35.072 StarterApp[1895:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 10:30:35.078 StarterApp[1895:80b] Unlimited access to network resources
+2014-01-29 10:30:35.099 StarterApp[1895:80b] [CDVTimer][statusbar] 5.483031ms
+2014-01-29 10:30:35.099 StarterApp[1895:80b] [CDVTimer][TotalPluginStartup] 5.892992ms
+2014-01-29 10:30:35.184 StarterApp[1895:80b] Resetting plugins due to page load.
+2014-01-29 10:30:35.371 StarterApp[1895:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 10:31:36.027 StarterApp[2601:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 10:31:36.032 StarterApp[2601:80b] Unlimited access to network resources
+2014-01-29 10:31:36.053 StarterApp[2601:80b] [CDVTimer][statusbar] 5.959988ms
+2014-01-29 10:31:36.054 StarterApp[2601:80b] [CDVTimer][TotalPluginStartup] 6.367028ms
+2014-01-29 10:31:36.143 StarterApp[2601:80b] Resetting plugins due to page load.
+2014-01-29 10:31:36.331 StarterApp[2601:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 10:32:31.589 StarterApp[3305:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 10:32:31.597 StarterApp[3305:80b] Unlimited access to network resources
+2014-01-29 10:32:31.617 StarterApp[3305:80b] [CDVTimer][statusbar] 6.226003ms
+2014-01-29 10:32:31.617 StarterApp[3305:80b] [CDVTimer][TotalPluginStartup] 6.595016ms
+2014-01-29 10:32:31.695 StarterApp[3305:80b] Resetting plugins due to page load.
+2014-01-29 10:32:31.874 StarterApp[3305:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 10:39:22.473 StarterApp[4129:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 10:39:22.478 StarterApp[4129:80b] Unlimited access to network resources
+2014-01-29 10:39:22.498 StarterApp[4129:80b] [CDVTimer][statusbar] 5.791008ms
+2014-01-29 10:39:22.498 StarterApp[4129:80b] [CDVTimer][TotalPluginStartup] 6.172001ms
+2014-01-29 10:39:22.596 StarterApp[4129:80b] Resetting plugins due to page load.
+2014-01-29 10:39:22.827 StarterApp[4129:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 10:42:49.537 StarterApp[4884:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 10:42:49.542 StarterApp[4884:80b] Unlimited access to network resources
+2014-01-29 10:42:49.564 StarterApp[4884:80b] [CDVTimer][statusbar] 6.090999ms
+2014-01-29 10:42:49.565 StarterApp[4884:80b] [CDVTimer][TotalPluginStartup] 6.444991ms
+2014-01-29 10:42:49.644 StarterApp[4884:80b] Resetting plugins due to page load.
+2014-01-29 10:42:49.823 StarterApp[4884:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 10:45:31.493 StarterApp[5638:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 10:45:31.500 StarterApp[5638:80b] Unlimited access to network resources
+2014-01-29 10:45:31.521 StarterApp[5638:80b] [CDVTimer][statusbar] 5.523980ms
+2014-01-29 10:45:31.521 StarterApp[5638:80b] [CDVTimer][TotalPluginStartup] 5.945027ms
+2014-01-29 10:45:31.611 StarterApp[5638:80b] Resetting plugins due to page load.
+2014-01-29 10:45:31.821 StarterApp[5638:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 10:48:22.976 StarterApp[6416:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 10:48:22.981 StarterApp[6416:80b] Unlimited access to network resources
+2014-01-29 10:48:23.002 StarterApp[6416:80b] [CDVTimer][statusbar] 5.586028ms
+2014-01-29 10:48:23.002 StarterApp[6416:80b] [CDVTimer][TotalPluginStartup] 5.964994ms
+2014-01-29 10:48:23.083 StarterApp[6416:80b] Resetting plugins due to page load.
+2014-01-29 10:48:23.252 StarterApp[6416:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 11:49:02.352 StarterApp[7805:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 11:49:02.361 StarterApp[7805:80b] Unlimited access to network resources
+2014-01-29 11:49:02.383 StarterApp[7805:80b] [CDVTimer][statusbar] 5.343020ms
+2014-01-29 11:49:02.383 StarterApp[7805:80b] [CDVTimer][TotalPluginStartup] 5.707026ms
+2014-01-29 11:49:02.465 StarterApp[7805:80b] Resetting plugins due to page load.
+2014-01-29 11:49:02.704 StarterApp[7805:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 11:58:55.901 StarterApp[8629:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 11:58:55.909 StarterApp[8629:80b] Unlimited access to network resources
+2014-01-29 11:58:55.929 StarterApp[8629:80b] [CDVTimer][statusbar] 5.760968ms
+2014-01-29 11:58:55.930 StarterApp[8629:80b] [CDVTimer][TotalPluginStartup] 6.199002ms
+2014-01-29 11:58:56.022 StarterApp[8629:80b] Resetting plugins due to page load.
+2014-01-29 11:58:56.164 StarterApp[8629:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html
+2014-01-29 12:00:41.023 StarterApp[9350:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 12:00:41.029 StarterApp[9350:80b] Unlimited access to network resources
+2014-01-29 12:00:41.049 StarterApp[9350:80b] [CDVTimer][statusbar] 6.060958ms
+2014-01-29 12:00:41.050 StarterApp[9350:80b] [CDVTimer][TotalPluginStartup] 6.721973ms
+2014-01-29 12:00:41.140 StarterApp[9350:80b] Resetting plugins due to page load.
+2014-01-29 12:00:41.375 StarterApp[9350:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 12:02:29.868 StarterApp[10079:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 12:02:29.873 StarterApp[10079:80b] Unlimited access to network resources
+2014-01-29 12:02:29.895 StarterApp[10079:80b] [CDVTimer][statusbar] 6.178975ms
+2014-01-29 12:02:29.896 StarterApp[10079:80b] [CDVTimer][TotalPluginStartup] 6.587029ms
+2014-01-29 12:02:29.974 StarterApp[10079:80b] Resetting plugins due to page load.
+2014-01-29 12:02:30.156 StarterApp[10079:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 12:02:51.423 StarterApp[10079:80b] Resetting plugins due to page load.
+2014-01-29 12:02:51.821 StarterApp[10079:80b] Finished load of: https://mobile.twitter.com/MSFTnews/status/428573254987812864?screen_name=MSFTnews
+2014-01-29 13:50:14.317 StarterApp[10854:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 13:50:14.325 StarterApp[10854:80b] Unlimited access to network resources
+2014-01-29 13:50:14.347 StarterApp[10854:80b] [CDVTimer][statusbar] 5.865991ms
+2014-01-29 13:50:14.348 StarterApp[10854:80b] [CDVTimer][TotalPluginStartup] 6.327033ms
+2014-01-29 13:50:14.436 StarterApp[10854:80b] Resetting plugins due to page load.
+2014-01-29 13:50:14.679 StarterApp[10854:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 13:50:17.755 StarterApp[10854:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-01-29 13:50:17.756 StarterApp[10854:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-01-29 13:50:17.756 StarterApp[10854:80b] Resetting plugins due to page load.
+2014-01-29 13:50:17.819 StarterApp[10854:80b] Finished load of: https://mobile.twitter.com/MSFTnews/status/428573254987812864?screen_name=MSFTnews
+2014-01-29 13:53:05.104 StarterApp[11625:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 13:53:05.109 StarterApp[11625:80b] Unlimited access to network resources
+2014-01-29 13:53:05.130 StarterApp[11625:80b] [CDVTimer][statusbar] 6.146014ms
+2014-01-29 13:53:05.130 StarterApp[11625:80b] [CDVTimer][TotalPluginStartup] 6.513000ms
+2014-01-29 13:53:05.210 StarterApp[11625:80b] Resetting plugins due to page load.
+2014-01-29 13:53:05.443 StarterApp[11625:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 14:23:01.720 StarterApp[12848:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 14:23:01.729 StarterApp[12848:80b] Unlimited access to network resources
+2014-01-29 14:23:01.748 StarterApp[12848:80b] [CDVTimer][statusbar] 5.264997ms
+2014-01-29 14:23:01.749 StarterApp[12848:80b] [CDVTimer][TotalPluginStartup] 5.647004ms
+2014-01-29 14:23:01.825 StarterApp[12848:80b] Resetting plugins due to page load.
+2014-01-29 14:23:02.013 StarterApp[12848:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 14:28:36.975 StarterApp[13693:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 14:28:36.980 StarterApp[13693:80b] Unlimited access to network resources
+2014-01-29 14:28:37.000 StarterApp[13693:80b] [CDVTimer][statusbar] 6.087005ms
+2014-01-29 14:28:37.001 StarterApp[13693:80b] [CDVTimer][TotalPluginStartup] 6.451011ms
+2014-01-29 14:28:37.085 StarterApp[13693:80b] Resetting plugins due to page load.
+2014-01-29 14:28:37.303 StarterApp[13693:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 14:30:27.182 StarterApp[14435:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 14:30:27.187 StarterApp[14435:80b] Unlimited access to network resources
+2014-01-29 14:30:27.208 StarterApp[14435:80b] [CDVTimer][statusbar] 5.719006ms
+2014-01-29 14:30:27.208 StarterApp[14435:80b] [CDVTimer][TotalPluginStartup] 6.093979ms
+2014-01-29 14:30:27.294 StarterApp[14435:80b] Resetting plugins due to page load.
+2014-01-29 14:30:27.493 StarterApp[14435:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+2014-01-29 14:31:40.752 StarterApp[15160:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 14:31:40.758 StarterApp[15160:80b] Unlimited access to network resources
+2014-01-29 14:31:40.779 StarterApp[15160:80b] [CDVTimer][statusbar] 5.825996ms
+2014-01-29 14:31:40.779 StarterApp[15160:80b] [CDVTimer][TotalPluginStartup] 6.220996ms
+2014-01-29 14:31:40.863 StarterApp[15160:80b] Resetting plugins due to page load.
+2014-01-29 14:31:41.090 StarterApp[15160:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D0511492-4E4E-4910-8624-A9627C7BB6B2/StarterApp.app/www/index.html#/tab/news
+Terminating in response to SpringBoard's termination.
+2014-01-29 14:52:39.532 T+D Magazine[16211:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 14:52:39.540 T+D Magazine[16211:80b] Unlimited access to network resources
+2014-01-29 14:52:39.542 T+D Magazine[16211:80b] Fix applied for database locations?: YES
+2014-01-29 14:52:39.561 T+D Magazine[16211:80b] [CDVTimer][statusbar] 5.954027ms
+2014-01-29 14:52:39.562 T+D Magazine[16211:80b] [CDVTimer][TotalPluginStartup] 6.352007ms
+2014-01-29 14:52:39.653 T+D Magazine[16211:80b] Resetting plugins due to page load.
+2014-01-29 14:52:39.873 T+D Magazine[16211:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/56A8A5A3-3503-4F32-A990-5628AC27222C/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 19:48:22.768 T+D Magazine[48669:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 19:48:22.843 T+D Magazine[48669:80b] Unlimited access to network resources
+2014-01-29 19:48:22.914 T+D Magazine[48669:80b] [CDVTimer][statusbar] 19.261003ms
+2014-01-29 19:48:22.915 T+D Magazine[48669:80b] [CDVTimer][TotalPluginStartup] 20.550013ms
+2014-01-29 19:48:23.220 T+D Magazine[48669:80b] Resetting plugins due to page load.
+2014-01-29 19:48:23.857 T+D Magazine[48669:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 19:51:20.981 T+D Magazine[50063:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 19:51:20.996 T+D Magazine[50063:80b] Unlimited access to network resources
+2014-01-29 19:51:21.051 T+D Magazine[50063:80b] [CDVTimer][statusbar] 14.832973ms
+2014-01-29 19:51:21.052 T+D Magazine[50063:80b] [CDVTimer][TotalPluginStartup] 16.171038ms
+2014-01-29 19:51:21.344 T+D Magazine[50063:80b] Resetting plugins due to page load.
+2014-01-29 19:51:22.047 T+D Magazine[50063:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 19:51:25.028 T+D Magazine[50063:80b] Will use resource 'http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2001.mp3' from the Internet.
+2014-01-29 19:51:33.420 T+D Magazine[50063:80b] Playing audio sample 'http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2001.mp3'
+2014-01-29 19:51:33.427 T+D Magazine[50063:80b] THREAD WARNING: ['Media'] took '8399.302979' ms. Plugin should use a background thread.
+2014-01-29 19:52:04.557 T+D Magazine[51264:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 19:52:04.573 T+D Magazine[51264:80b] Unlimited access to network resources
+2014-01-29 19:52:04.636 T+D Magazine[51264:80b] [CDVTimer][statusbar] 19.031048ms
+2014-01-29 19:52:04.637 T+D Magazine[51264:80b] [CDVTimer][TotalPluginStartup] 20.281017ms
+2014-01-29 19:52:04.919 T+D Magazine[51264:80b] Resetting plugins due to page load.
+2014-01-29 19:52:05.473 T+D Magazine[51264:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 19:59:46.450 T+D Magazine[51264:80b] Will use resource 'http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2001.mp3' from the Internet.
+2014-01-29 19:59:55.417 T+D Magazine[51264:80b] Playing audio sample 'http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2001.mp3'
+2014-01-29 19:59:55.423 T+D Magazine[51264:80b] THREAD WARNING: ['Media'] took '8973.562012' ms. Plugin should use a background thread.
+2014-01-29 20:00:05.081 T+D Magazine[51264:5e13] 20:00:05.081 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-01-29 20:00:15.663 T+D Magazine[52540:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 20:00:15.685 T+D Magazine[52540:80b] Unlimited access to network resources
+2014-01-29 20:00:15.756 T+D Magazine[52540:80b] [CDVTimer][statusbar] 20.317972ms
+2014-01-29 20:00:15.757 T+D Magazine[52540:80b] [CDVTimer][TotalPluginStartup] 21.642983ms
+2014-01-29 20:00:16.117 T+D Magazine[52540:80b] Resetting plugins due to page load.
+2014-01-29 20:00:16.485 T+D Magazine[52540:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html
+2014-01-29 20:04:55.906 T+D Magazine[53808:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 20:04:55.912 T+D Magazine[53808:80b] Unlimited access to network resources
+2014-01-29 20:04:55.932 T+D Magazine[53808:80b] [CDVTimer][statusbar] 5.586028ms
+2014-01-29 20:04:55.933 T+D Magazine[53808:80b] [CDVTimer][TotalPluginStartup] 5.949020ms
+2014-01-29 20:04:56.003 T+D Magazine[53808:80b] Resetting plugins due to page load.
+2014-01-29 20:04:56.160 T+D Magazine[53808:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html
+2014-01-29 20:08:44.864 T+D Magazine[55007:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 20:08:44.870 T+D Magazine[55007:80b] Unlimited access to network resources
+2014-01-29 20:08:44.891 T+D Magazine[55007:80b] [CDVTimer][statusbar] 6.457984ms
+2014-01-29 20:08:44.891 T+D Magazine[55007:80b] [CDVTimer][TotalPluginStartup] 6.859004ms
+2014-01-29 20:08:44.976 T+D Magazine[55007:80b] Resetting plugins due to page load.
+2014-01-29 20:08:45.177 T+D Magazine[55007:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 20:10:02.328 T+D Magazine[56214:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 20:10:02.333 T+D Magazine[56214:80b] Unlimited access to network resources
+2014-01-29 20:10:02.356 T+D Magazine[56214:80b] [CDVTimer][statusbar] 6.015003ms
+2014-01-29 20:10:02.356 T+D Magazine[56214:80b] [CDVTimer][TotalPluginStartup] 6.451964ms
+2014-01-29 20:10:02.471 T+D Magazine[56214:80b] Resetting plugins due to page load.
+2014-01-29 20:10:02.688 T+D Magazine[56214:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 20:10:18.399 T+D Magazine[57356:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 20:10:18.404 T+D Magazine[57356:80b] Unlimited access to network resources
+2014-01-29 20:10:18.427 T+D Magazine[57356:80b] [CDVTimer][statusbar] 6.506026ms
+2014-01-29 20:10:18.427 T+D Magazine[57356:80b] [CDVTimer][TotalPluginStartup] 7.008016ms
+2014-01-29 20:10:18.496 T+D Magazine[57356:80b] Resetting plugins due to page load.
+2014-01-29 20:10:18.711 T+D Magazine[57356:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 20:10:22.019 T+D Magazine[57356:80b] Will use resource 'http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2001.mp3' from the Internet.
+2014-01-29 20:10:30.122 T+D Magazine[57356:80b] Playing audio sample 'http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2001.mp3'
+2014-01-29 20:10:30.128 T+D Magazine[57356:80b] THREAD WARNING: ['Media'] took '8108.531006' ms. Plugin should use a background thread.
+2014-01-29 20:11:09.360 T+D Magazine[58525:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 20:11:09.366 T+D Magazine[58525:80b] Unlimited access to network resources
+2014-01-29 20:11:09.387 T+D Magazine[58525:80b] [CDVTimer][statusbar] 6.223023ms
+2014-01-29 20:11:09.387 T+D Magazine[58525:80b] [CDVTimer][TotalPluginStartup] 6.682992ms
+2014-01-29 20:11:09.458 T+D Magazine[58525:80b] Resetting plugins due to page load.
+2014-01-29 20:11:09.671 T+D Magazine[58525:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 20:11:12.122 T+D Magazine[58525:80b] Will use resource 'http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2001.mp3' from the Internet.
+2014-01-29 20:11:20.907 T+D Magazine[58525:80b] Playing audio sample 'http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2001.mp3'
+2014-01-29 20:11:20.913 T+D Magazine[58525:80b] THREAD WARNING: ['Media'] took '8790.372803' ms. Plugin should use a background thread.
+2014-01-29 20:15:12.886 T+D Magazine[59728:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 20:15:12.892 T+D Magazine[59728:80b] Unlimited access to network resources
+2014-01-29 20:15:12.912 T+D Magazine[59728:80b] [CDVTimer][statusbar] 5.743980ms
+2014-01-29 20:15:12.913 T+D Magazine[59728:80b] [CDVTimer][TotalPluginStartup] 6.200016ms
+2014-01-29 20:15:12.987 T+D Magazine[59728:80b] Resetting plugins due to page load.
+2014-01-29 20:15:13.193 T+D Magazine[59728:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 20:21:29.468 T+D Magazine[62209:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 20:21:29.473 T+D Magazine[62209:80b] Unlimited access to network resources
+2014-01-29 20:21:29.497 T+D Magazine[62209:80b] [CDVTimer][statusbar] 6.437004ms
+2014-01-29 20:21:29.497 T+D Magazine[62209:80b] [CDVTimer][TotalPluginStartup] 6.907046ms
+2014-01-29 20:21:29.600 T+D Magazine[62209:80b] Resetting plugins due to page load.
+2014-01-29 20:21:29.745 T+D Magazine[62209:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0E7C2F0B-C993-4EBB-8632-0748F78F7D32/T+D%20Magazine.app/www/index.html
+2014-01-29 20:23:35.064 T+D Magazine[63396:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 20:23:35.071 T+D Magazine[63396:80b] Unlimited access to network resources
+2014-01-29 20:23:35.092 T+D Magazine[63396:80b] [CDVTimer][statusbar] 5.977035ms
+2014-01-29 20:23:35.092 T+D Magazine[63396:80b] [CDVTimer][TotalPluginStartup] 6.457984ms
+2014-01-29 20:23:35.178 T+D Magazine[63396:80b] Resetting plugins due to page load.
+2014-01-29 20:23:35.292 T+D Magazine[63396:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html
+2014-01-29 20:26:06.160 T+D Magazine[64681:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 20:26:06.170 T+D Magazine[64681:80b] Unlimited access to network resources
+2014-01-29 20:26:06.193 T+D Magazine[64681:80b] [CDVTimer][statusbar] 6.475031ms
+2014-01-29 20:26:06.194 T+D Magazine[64681:80b] [CDVTimer][TotalPluginStartup] 6.962955ms
+2014-01-29 20:26:06.286 T+D Magazine[64681:80b] Resetting plugins due to page load.
+2014-01-29 20:26:06.504 T+D Magazine[64681:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 20:26:16.003 T+D Magazine[64681:80b] Will use resource 'http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2001.mp3' from the Internet.
+2014-01-29 20:26:24.811 T+D Magazine[64681:80b] Playing audio sample 'http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2001.mp3'
+2014-01-29 20:26:24.817 T+D Magazine[64681:80b] THREAD WARNING: ['Media'] took '8813.922119' ms. Plugin should use a background thread.
+2014-01-29 22:20:50.361 T+D Magazine[74560:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 22:20:50.370 T+D Magazine[74560:80b] Unlimited access to network resources
+2014-01-29 22:20:50.394 T+D Magazine[74560:80b] [CDVTimer][statusbar] 7.032990ms
+2014-01-29 22:20:50.394 T+D Magazine[74560:80b] [CDVTimer][TotalPluginStartup] 7.502019ms
+2014-01-29 22:20:50.475 T+D Magazine[74560:80b] Resetting plugins due to page load.
+2014-01-29 22:20:50.710 T+D Magazine[74560:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 22:21:34.537 T+D Magazine[75712:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 22:21:34.543 T+D Magazine[75712:80b] Unlimited access to network resources
+2014-01-29 22:21:34.565 T+D Magazine[75712:80b] [CDVTimer][statusbar] 6.458998ms
+2014-01-29 22:21:34.565 T+D Magazine[75712:80b] [CDVTimer][TotalPluginStartup] 6.910980ms
+2014-01-29 22:21:34.661 T+D Magazine[75712:80b] Resetting plugins due to page load.
+2014-01-29 22:21:34.907 T+D Magazine[75712:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 22:22:57.963 T+D Magazine[76871:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 22:22:57.971 T+D Magazine[76871:80b] Unlimited access to network resources
+2014-01-29 22:22:57.993 T+D Magazine[76871:80b] [CDVTimer][statusbar] 5.715013ms
+2014-01-29 22:22:57.994 T+D Magazine[76871:80b] [CDVTimer][TotalPluginStartup] 6.111026ms
+2014-01-29 22:22:58.078 T+D Magazine[76871:80b] Resetting plugins due to page load.
+2014-01-29 22:22:58.304 T+D Magazine[76871:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 22:24:36.607 T+D Magazine[78059:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 22:24:36.613 T+D Magazine[78059:80b] Unlimited access to network resources
+2014-01-29 22:24:36.636 T+D Magazine[78059:80b] [CDVTimer][statusbar] 6.615996ms
+2014-01-29 22:24:36.636 T+D Magazine[78059:80b] [CDVTimer][TotalPluginStartup] 7.013023ms
+2014-01-29 22:24:36.714 T+D Magazine[78059:80b] Resetting plugins due to page load.
+2014-01-29 22:24:36.915 T+D Magazine[78059:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 22:24:47.664 T+D Magazine[78059:80b] setting movie path: 
+2014-01-29 22:24:47.682 T+D Magazine[78059:80b] setting movie path: 
+2014-01-29 22:24:47.698 T+D Magazine[78059:80b] setting movie path: 
+2014-01-29 22:28:19.440 T+D Magazine[79307:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 22:28:19.446 T+D Magazine[79307:80b] Unlimited access to network resources
+2014-01-29 22:28:19.468 T+D Magazine[79307:80b] [CDVTimer][statusbar] 5.723953ms
+2014-01-29 22:28:19.468 T+D Magazine[79307:80b] [CDVTimer][TotalPluginStartup] 6.150007ms
+2014-01-29 22:28:19.563 T+D Magazine[79307:80b] Resetting plugins due to page load.
+2014-01-29 22:28:19.767 T+D Magazine[79307:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 22:28:35.279 T+D Magazine[79307:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 22:28:35.294 T+D Magazine[79307:80b] THREAD WARNING: ['InAppBrowser'] took '56.051025' ms. Plugin should use a background thread.
+2014-01-29 22:28:39.879 T+D Magazine[79307:80b] Resetting plugins due to page load.
+2014-01-29 22:28:40.042 T+D Magazine[79307:80b] Finished load of: https://twitter.com/DougKass/status/428615794365583360
+2014-01-29 22:28:40.043 T+D Magazine[79307:80b] Resetting plugins due to page load.
+2014-01-29 22:28:41.837 T+D Magazine[79307:80b] Finished load of: https://mobile.twitter.com/DougKass/status/428615794365583360?screen_name=DougKass
+2014-01-29 22:30:41.719 T+D Magazine[80520:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 22:30:41.728 T+D Magazine[80520:80b] Unlimited access to network resources
+2014-01-29 22:30:41.750 T+D Magazine[80520:80b] [CDVTimer][statusbar] 6.783009ms
+2014-01-29 22:30:41.751 T+D Magazine[80520:80b] [CDVTimer][TotalPluginStartup] 7.202029ms
+2014-01-29 22:30:41.847 T+D Magazine[80520:80b] Resetting plugins due to page load.
+2014-01-29 22:30:42.069 T+D Magazine[80520:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 22:30:44.941 T+D Magazine[80520:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 22:30:44.944 T+D Magazine[80520:80b] THREAD WARNING: ['InAppBrowser'] took '18.979980' ms. Plugin should use a background thread.
+2014-01-29 22:30:51.208 T+D Magazine[80520:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 22:35:53.929 T+D Magazine[81813:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 22:35:53.935 T+D Magazine[81813:80b] Unlimited access to network resources
+2014-01-29 22:35:53.954 T+D Magazine[81813:80b] [CDVTimer][statusbar] 5.307972ms
+2014-01-29 22:35:53.955 T+D Magazine[81813:80b] [CDVTimer][TotalPluginStartup] 5.681038ms
+2014-01-29 22:35:54.037 T+D Magazine[81813:80b] Resetting plugins due to page load.
+2014-01-29 22:35:54.234 T+D Magazine[81813:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 22:37:29.444 T+D Magazine[82988:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 22:37:29.450 T+D Magazine[82988:80b] Unlimited access to network resources
+2014-01-29 22:37:29.471 T+D Magazine[82988:80b] [CDVTimer][statusbar] 7.098019ms
+2014-01-29 22:37:29.472 T+D Magazine[82988:80b] [CDVTimer][TotalPluginStartup] 7.477999ms
+2014-01-29 22:37:29.560 T+D Magazine[82988:80b] Resetting plugins due to page load.
+2014-01-29 22:37:29.752 T+D Magazine[82988:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 22:39:24.219 T+D Magazine[84184:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 22:39:24.227 T+D Magazine[84184:80b] Unlimited access to network resources
+2014-01-29 22:39:24.248 T+D Magazine[84184:80b] [CDVTimer][statusbar] 6.619990ms
+2014-01-29 22:39:24.249 T+D Magazine[84184:80b] [CDVTimer][TotalPluginStartup] 7.071018ms
+2014-01-29 22:39:24.336 T+D Magazine[84184:80b] Resetting plugins due to page load.
+2014-01-29 22:39:24.554 T+D Magazine[84184:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 22:39:40.335 T+D Magazine[84184:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 22:39:40.338 T+D Magazine[84184:80b] THREAD WARNING: ['InAppBrowser'] took '19.394043' ms. Plugin should use a background thread.
+2014-01-29 22:39:45.772 T+D Magazine[84184:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 22:57:22.586 T+D Magazine[85626:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 22:57:22.591 T+D Magazine[85626:80b] Unlimited access to network resources
+2014-01-29 22:57:22.612 T+D Magazine[85626:80b] [CDVTimer][statusbar] 5.421996ms
+2014-01-29 22:57:22.612 T+D Magazine[85626:80b] [CDVTimer][TotalPluginStartup] 5.845010ms
+2014-01-29 22:57:22.703 T+D Magazine[85626:80b] Resetting plugins due to page load.
+2014-01-29 22:57:22.888 T+D Magazine[85626:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:07:03.778 T+D Magazine[86998:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:07:03.785 T+D Magazine[86998:80b] Unlimited access to network resources
+2014-01-29 23:07:03.808 T+D Magazine[86998:80b] [CDVTimer][statusbar] 6.887972ms
+2014-01-29 23:07:03.808 T+D Magazine[86998:80b] [CDVTimer][TotalPluginStartup] 7.341027ms
+2014-01-29 23:07:03.896 T+D Magazine[86998:80b] Resetting plugins due to page load.
+2014-01-29 23:07:04.126 T+D Magazine[86998:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:21:39.518 T+D Magazine[88333:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:21:39.529 T+D Magazine[88333:80b] Unlimited access to network resources
+2014-01-29 23:21:39.558 T+D Magazine[88333:80b] [CDVTimer][statusbar] 7.772982ms
+2014-01-29 23:21:39.558 T+D Magazine[88333:80b] [CDVTimer][TotalPluginStartup] 8.270979ms
+2014-01-29 23:21:39.671 T+D Magazine[88333:80b] Resetting plugins due to page load.
+2014-01-29 23:21:39.953 T+D Magazine[88333:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:21:41.667 T+D Magazine[88333:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 23:21:41.671 T+D Magazine[88333:80b] THREAD WARNING: ['InAppBrowser'] took '18.473877' ms. Plugin should use a background thread.
+2014-01-29 23:23:24.976 T+D Magazine[89543:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:23:24.982 T+D Magazine[89543:80b] Unlimited access to network resources
+2014-01-29 23:23:25.004 T+D Magazine[89543:80b] [CDVTimer][statusbar] 6.511033ms
+2014-01-29 23:23:25.004 T+D Magazine[89543:80b] [CDVTimer][TotalPluginStartup] 6.919980ms
+2014-01-29 23:23:25.091 T+D Magazine[89543:80b] Resetting plugins due to page load.
+2014-01-29 23:23:25.329 T+D Magazine[89543:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:23:29.464 T+D Magazine[89543:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 23:23:29.468 T+D Magazine[89543:80b] THREAD WARNING: ['InAppBrowser'] took '22.859863' ms. Plugin should use a background thread.
+2014-01-29 23:27:03.009 T+D Magazine[90777:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:27:03.014 T+D Magazine[90777:80b] Unlimited access to network resources
+2014-01-29 23:27:03.034 T+D Magazine[90777:80b] [CDVTimer][statusbar] 5.357981ms
+2014-01-29 23:27:03.034 T+D Magazine[90777:80b] [CDVTimer][TotalPluginStartup] 5.728006ms
+2014-01-29 23:27:03.123 T+D Magazine[90777:80b] Resetting plugins due to page load.
+2014-01-29 23:27:03.353 T+D Magazine[90777:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:27:03.425 T+D Magazine[90777:80b] THREAD WARNING: ['StatusBar'] took '13.072021' ms. Plugin should use a background thread.
+2014-01-29 23:27:11.201 T+D Magazine[90777:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 23:27:11.204 T+D Magazine[90777:80b] THREAD WARNING: ['InAppBrowser'] took '18.512207' ms. Plugin should use a background thread.
+2014-01-29 23:30:08.331 T+D Magazine[90777:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 23:30:11.081 T+D Magazine[92002:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:30:11.086 T+D Magazine[92002:80b] Unlimited access to network resources
+2014-01-29 23:30:11.107 T+D Magazine[92002:80b] [CDVTimer][statusbar] 5.464971ms
+2014-01-29 23:30:11.107 T+D Magazine[92002:80b] [CDVTimer][TotalPluginStartup] 5.878031ms
+2014-01-29 23:30:11.200 T+D Magazine[92002:80b] Resetting plugins due to page load.
+2014-01-29 23:30:11.392 T+D Magazine[92002:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:30:12.617 T+D Magazine[92002:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 23:30:12.621 T+D Magazine[92002:80b] THREAD WARNING: ['InAppBrowser'] took '18.995117' ms. Plugin should use a background thread.
+2014-01-29 23:33:03.429 T+D Magazine[92002:80b] Received memory warning.
+2014-01-29 23:33:54.659 T+D Magazine[93564:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:33:54.664 T+D Magazine[93564:80b] Unlimited access to network resources
+2014-01-29 23:33:54.684 T+D Magazine[93564:80b] [CDVTimer][statusbar] 5.493999ms
+2014-01-29 23:33:54.684 T+D Magazine[93564:80b] [CDVTimer][TotalPluginStartup] 5.877018ms
+2014-01-29 23:33:54.752 T+D Magazine[93564:80b] Resetting plugins due to page load.
+2014-01-29 23:33:54.935 T+D Magazine[93564:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:33:56.903 T+D Magazine[93564:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:33:56.907 T+D Magazine[93564:80b] THREAD WARNING: ['InAppBrowser'] took '18.620850' ms. Plugin should use a background thread.
+2014-01-29 23:39:10.672 T+D Magazine[94813:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:39:10.677 T+D Magazine[94813:80b] Unlimited access to network resources
+2014-01-29 23:39:10.697 T+D Magazine[94813:80b] [CDVTimer][statusbar] 5.662978ms
+2014-01-29 23:39:10.697 T+D Magazine[94813:80b] [CDVTimer][TotalPluginStartup] 6.141007ms
+2014-01-29 23:39:10.759 T+D Magazine[94813:80b] Resetting plugins due to page load.
+2014-01-29 23:39:10.945 T+D Magazine[94813:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:39:11.961 T+D Magazine[94813:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:39:11.965 T+D Magazine[94813:80b] THREAD WARNING: ['InAppBrowser'] took '19.281982' ms. Plugin should use a background thread.
+2014-01-29 23:39:21.431 T+D Magazine[94813:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:40:51.484 T+D Magazine[96070:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:40:51.492 T+D Magazine[96070:80b] Unlimited access to network resources
+2014-01-29 23:40:51.520 T+D Magazine[96070:80b] [CDVTimer][statusbar] 8.565962ms
+2014-01-29 23:40:51.520 T+D Magazine[96070:80b] [CDVTimer][TotalPluginStartup] 9.146988ms
+2014-01-29 23:40:51.602 T+D Magazine[96070:80b] Resetting plugins due to page load.
+2014-01-29 23:40:51.842 T+D Magazine[96070:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:41:14.471 T+D Magazine[97253:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:41:14.477 T+D Magazine[97253:80b] Unlimited access to network resources
+2014-01-29 23:41:14.496 T+D Magazine[97253:80b] [CDVTimer][statusbar] 5.412996ms
+2014-01-29 23:41:14.497 T+D Magazine[97253:80b] [CDVTimer][TotalPluginStartup] 5.854964ms
+2014-01-29 23:41:14.564 T+D Magazine[97253:80b] Resetting plugins due to page load.
+2014-01-29 23:41:14.759 T+D Magazine[97253:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:41:15.845 T+D Magazine[97253:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:41:15.848 T+D Magazine[97253:80b] THREAD WARNING: ['InAppBrowser'] took '18.298096' ms. Plugin should use a background thread.
+2014-01-29 23:41:25.531 T+D Magazine[97253:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:46:25.390 T+D Magazine[98543:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:46:25.398 T+D Magazine[98543:80b] Unlimited access to network resources
+2014-01-29 23:46:25.421 T+D Magazine[98543:80b] [CDVTimer][statusbar] 5.682051ms
+2014-01-29 23:46:25.421 T+D Magazine[98543:80b] [CDVTimer][TotalPluginStartup] 6.099999ms
+2014-01-29 23:46:25.505 T+D Magazine[98543:80b] Resetting plugins due to page load.
+2014-01-29 23:46:25.725 T+D Magazine[98543:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:46:29.252 T+D Magazine[98543:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:46:29.256 T+D Magazine[98543:80b] THREAD WARNING: ['InAppBrowser'] took '18.650146' ms. Plugin should use a background thread.
+2014-01-29 23:47:30.343 T+D Magazine[99749:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:47:30.348 T+D Magazine[99749:80b] Unlimited access to network resources
+2014-01-29 23:47:30.372 T+D Magazine[99749:80b] [CDVTimer][statusbar] 6.389976ms
+2014-01-29 23:47:30.372 T+D Magazine[99749:80b] [CDVTimer][TotalPluginStartup] 6.868005ms
+2014-01-29 23:47:30.459 T+D Magazine[99749:80b] Resetting plugins due to page load.
+2014-01-29 23:47:30.698 T+D Magazine[99749:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:47:32.413 T+D Magazine[99749:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:47:32.416 T+D Magazine[99749:80b] THREAD WARNING: ['InAppBrowser'] took '18.869141' ms. Plugin should use a background thread.
+2014-01-29 23:49:23.571 T+D Magazine[1141:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:49:23.577 T+D Magazine[1141:80b] Unlimited access to network resources
+2014-01-29 23:49:23.597 T+D Magazine[1141:80b] [CDVTimer][statusbar] 6.285012ms
+2014-01-29 23:49:23.598 T+D Magazine[1141:80b] [CDVTimer][TotalPluginStartup] 6.679952ms
+2014-01-29 23:49:23.669 T+D Magazine[1141:80b] Resetting plugins due to page load.
+2014-01-29 23:49:23.850 T+D Magazine[1141:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:49:27.128 T+D Magazine[1141:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:49:27.132 T+D Magazine[1141:80b] THREAD WARNING: ['InAppBrowser'] took '22.736084' ms. Plugin should use a background thread.
+2014-01-29 23:49:48.577 T+D Magazine[1141:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:51:43.310 T+D Magazine[2387:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:51:43.315 T+D Magazine[2387:80b] Unlimited access to network resources
+2014-01-29 23:51:43.336 T+D Magazine[2387:80b] [CDVTimer][statusbar] 5.653977ms
+2014-01-29 23:51:43.336 T+D Magazine[2387:80b] [CDVTimer][TotalPluginStartup] 6.132007ms
+2014-01-29 23:51:43.408 T+D Magazine[2387:80b] Resetting plugins due to page load.
+2014-01-29 23:51:43.594 T+D Magazine[2387:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:51:46.284 T+D Magazine[2387:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:51:46.287 T+D Magazine[2387:80b] THREAD WARNING: ['InAppBrowser'] took '19.531982' ms. Plugin should use a background thread.
+2014-01-29 23:52:55.425 T+D Magazine[3615:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:52:55.431 T+D Magazine[3615:80b] Unlimited access to network resources
+2014-01-29 23:52:55.453 T+D Magazine[3615:80b] [CDVTimer][statusbar] 6.555021ms
+2014-01-29 23:52:55.454 T+D Magazine[3615:80b] [CDVTimer][TotalPluginStartup] 7.020950ms
+2014-01-29 23:52:55.538 T+D Magazine[3615:80b] Resetting plugins due to page load.
+2014-01-29 23:52:55.739 T+D Magazine[3615:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:52:59.984 T+D Magazine[3615:80b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-01-29 23:52:59.987 T+D Magazine[3615:80b] THREAD WARNING: ['InAppBrowser'] took '18.375732' ms. Plugin should use a background thread.
+2014-01-29 23:53:52.984 T+D Magazine[4851:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:53:52.992 T+D Magazine[4851:80b] Unlimited access to network resources
+2014-01-29 23:53:53.018 T+D Magazine[4851:80b] [CDVTimer][statusbar] 6.529987ms
+2014-01-29 23:53:53.018 T+D Magazine[4851:80b] [CDVTimer][TotalPluginStartup] 6.987035ms
+2014-01-29 23:53:53.109 T+D Magazine[4851:80b] Resetting plugins due to page load.
+2014-01-29 23:53:53.338 T+D Magazine[4851:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:53:58.540 T+D Magazine[4851:80b] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2014-01-29 23:53:58.543 T+D Magazine[4851:80b] THREAD WARNING: ['InAppBrowser'] took '19.078857' ms. Plugin should use a background thread.
+2014-01-29 23:57:27.844 T+D Magazine[6070:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:57:27.850 T+D Magazine[6070:80b] Unlimited access to network resources
+2014-01-29 23:57:27.873 T+D Magazine[6070:80b] [CDVTimer][statusbar] 7.245958ms
+2014-01-29 23:57:27.873 T+D Magazine[6070:80b] [CDVTimer][TotalPluginStartup] 7.645965ms
+2014-01-29 23:57:27.955 T+D Magazine[6070:80b] Resetting plugins due to page load.
+2014-01-29 23:57:28.071 T+D Magazine[6070:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html
+2014-01-29 23:58:35.491 T+D Magazine[7291:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-29 23:58:35.499 T+D Magazine[7291:80b] Unlimited access to network resources
+2014-01-29 23:58:35.523 T+D Magazine[7291:80b] [CDVTimer][statusbar] 5.828977ms
+2014-01-29 23:58:35.523 T+D Magazine[7291:80b] [CDVTimer][TotalPluginStartup] 6.253004ms
+2014-01-29 23:58:35.618 T+D Magazine[7291:80b] Resetting plugins due to page load.
+2014-01-29 23:58:35.844 T+D Magazine[7291:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-29 23:58:38.203 T+D Magazine[7291:80b] THREAD WARNING: ['InAppBrowser'] took '18.435059' ms. Plugin should use a background thread.
+2014-01-30 00:00:05.396 T+D Magazine[8508:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 00:00:05.402 T+D Magazine[8508:80b] Unlimited access to network resources
+2014-01-30 00:00:05.422 T+D Magazine[8508:80b] [CDVTimer][statusbar] 5.643964ms
+2014-01-30 00:00:05.422 T+D Magazine[8508:80b] [CDVTimer][TotalPluginStartup] 6.044030ms
+2014-01-30 00:00:05.502 T+D Magazine[8508:80b] Resetting plugins due to page load.
+2014-01-30 00:00:05.685 T+D Magazine[8508:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-30 00:00:08.195 T+D Magazine[8508:80b] Resetting plugins due to page load.
+2014-01-30 00:00:08.580 T+D Magazine[8508:80b] Finished load of: https://twitter.com/tdmag
+2014-01-30 00:00:08.581 T+D Magazine[8508:80b] Resetting plugins due to page load.
+2014-01-30 00:00:08.637 T+D Magazine[8508:80b] Finished load of: https://mobile.twitter.com/tdmag
+2014-01-30 00:00:57.774 T+D Magazine[9718:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 00:00:57.779 T+D Magazine[9718:80b] Unlimited access to network resources
+2014-01-30 00:00:57.800 T+D Magazine[9718:80b] [CDVTimer][statusbar] 5.928040ms
+2014-01-30 00:00:57.800 T+D Magazine[9718:80b] [CDVTimer][TotalPluginStartup] 6.295025ms
+2014-01-30 00:00:57.885 T+D Magazine[9718:80b] Resetting plugins due to page load.
+2014-01-30 00:00:58.062 T+D Magazine[9718:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-30 00:00:59.299 T+D Magazine[9718:80b] THREAD WARNING: ['InAppBrowser'] took '19.857910' ms. Plugin should use a background thread.
+2014-01-30 00:02:23.375 T+D Magazine[10935:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 00:02:23.380 T+D Magazine[10935:80b] Unlimited access to network resources
+2014-01-30 00:02:23.405 T+D Magazine[10935:80b] [CDVTimer][statusbar] 7.124960ms
+2014-01-30 00:02:23.406 T+D Magazine[10935:80b] [CDVTimer][TotalPluginStartup] 7.568002ms
+2014-01-30 00:02:23.498 T+D Magazine[10935:80b] Resetting plugins due to page load.
+2014-01-30 00:02:23.754 T+D Magazine[10935:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-30 00:02:26.375 T+D Magazine[10935:80b] THREAD WARNING: ['InAppBrowser'] took '18.647949' ms. Plugin should use a background thread.
+2014-01-30 00:05:10.046 T+D Magazine[12189:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 00:05:10.051 T+D Magazine[12189:80b] Unlimited access to network resources
+2014-01-30 00:05:10.072 T+D Magazine[12189:80b] [CDVTimer][statusbar] 5.356014ms
+2014-01-30 00:05:10.072 T+D Magazine[12189:80b] [CDVTimer][TotalPluginStartup] 5.732000ms
+2014-01-30 00:05:10.165 T+D Magazine[12189:80b] Resetting plugins due to page load.
+2014-01-30 00:05:10.404 T+D Magazine[12189:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-30 00:05:27.898 T+D Magazine[12189:80b] THREAD WARNING: ['InAppBrowser'] took '17.939941' ms. Plugin should use a background thread.
+2014-01-30 00:06:20.587 T+D Magazine[13426:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 00:06:20.593 T+D Magazine[13426:80b] Unlimited access to network resources
+2014-01-30 00:06:20.615 T+D Magazine[13426:80b] [CDVTimer][statusbar] 5.560040ms
+2014-01-30 00:06:20.615 T+D Magazine[13426:80b] [CDVTimer][TotalPluginStartup] 6.007969ms
+2014-01-30 00:06:20.706 T+D Magazine[13426:80b] Resetting plugins due to page load.
+2014-01-30 00:06:20.938 T+D Magazine[13426:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-30 11:10:22.046 T+D Magazine[23718:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 11:10:22.060 T+D Magazine[23718:80b] Unlimited access to network resources
+2014-01-30 11:10:22.092 T+D Magazine[23718:80b] [CDVTimer][statusbar] 8.889973ms
+2014-01-30 11:10:22.093 T+D Magazine[23718:80b] [CDVTimer][TotalPluginStartup] 9.504020ms
+2014-01-30 11:10:22.224 T+D Magazine[23718:80b] Resetting plugins due to page load.
+2014-01-30 11:10:22.561 T+D Magazine[23718:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-30 11:10:33.562 T+D Magazine[23718:80b] THREAD WARNING: ['InAppBrowser'] took '39.756836' ms. Plugin should use a background thread.
+2014-01-30 11:35:00.529 T+D Magazine[27804:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 11:35:00.539 T+D Magazine[27804:80b] Unlimited access to network resources
+2014-01-30 11:35:00.564 T+D Magazine[27804:80b] [CDVTimer][statusbar] 5.392969ms
+2014-01-30 11:35:00.564 T+D Magazine[27804:80b] [CDVTimer][TotalPluginStartup] 5.934000ms
+2014-01-30 11:35:00.658 T+D Magazine[27804:80b] Resetting plugins due to page load.
+2014-01-30 11:35:00.891 T+D Magazine[27804:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/1D2FAE67-3D37-4E69-B3FA-BE3E82558EEF/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-30 11:35:03.188 T+D Magazine[27804:80b] THREAD WARNING: ['InAppBrowser'] took '21.893066' ms. Plugin should use a background thread.
+2014-01-30 23:31:11.046 T+D Magazine[2604:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 23:31:11.076 T+D Magazine[2604:80b] Unlimited access to network resources
+2014-01-30 23:31:11.330 T+D Magazine[2604:80b] [CDVTimer][statusbar] 52.616954ms
+2014-01-30 23:31:11.331 T+D Magazine[2604:80b] [CDVTimer][TotalPluginStartup] 53.084016ms
+2014-01-30 23:31:11.474 T+D Magazine[2604:80b] Resetting plugins due to page load.
+2014-01-30 23:31:11.693 T+D Magazine[2604:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html
+2014-01-30 23:32:05.869 T+D Magazine[3815:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 23:32:05.875 T+D Magazine[3815:80b] Unlimited access to network resources
+2014-01-30 23:32:05.896 T+D Magazine[3815:80b] [CDVTimer][statusbar] 4.737020ms
+2014-01-30 23:32:05.896 T+D Magazine[3815:80b] [CDVTimer][TotalPluginStartup] 5.158007ms
+2014-01-30 23:32:05.966 T+D Magazine[3815:80b] Resetting plugins due to page load.
+2014-01-30 23:32:06.089 T+D Magazine[3815:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-01-30 23:35:47.082 T+D Magazine[5103:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 23:35:47.088 T+D Magazine[5103:80b] Unlimited access to network resources
+2014-01-30 23:35:47.110 T+D Magazine[5103:80b] [CDVTimer][statusbar] 4.805982ms
+2014-01-30 23:35:47.111 T+D Magazine[5103:80b] [CDVTimer][TotalPluginStartup] 5.255997ms
+2014-01-30 23:35:47.180 T+D Magazine[5103:80b] Resetting plugins due to page load.
+2014-01-30 23:35:47.449 T+D Magazine[5103:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/52420A60-2F46-4F27-8C7B-8600E671768E/T+D%20Magazine.app/www/index.html#/tab/news
+2014-01-30 23:36:02.817 T+D Magazine[5103:80b] setting movie path: 
+2014-01-30 23:36:02.841 T+D Magazine[5103:80b] setting movie path: 
+2014-01-30 23:36:02.857 T+D Magazine[5103:80b] setting movie path: 
+2014-01-30 23:36:06.903 T+D Magazine[5103:80b] THREAD WARNING: ['InAppBrowser'] took '77.517090' ms. Plugin should use a background thread.
+2014-02-01 18:56:52.471 T+D Magazine[2823:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-01 18:56:52.480 T+D Magazine[2823:80b] Unlimited access to network resources
+2014-02-01 18:56:52.500 T+D Magazine[2823:80b] [CDVTimer][statusbar] 5.109012ms
+2014-02-01 18:56:52.500 T+D Magazine[2823:80b] [CDVTimer][TotalPluginStartup] 5.477011ms
+2014-02-01 18:56:52.569 T+D Magazine[2823:80b] Resetting plugins due to page load.
+2014-02-01 18:56:52.794 T+D Magazine[2823:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/81600C27-C686-4D0A-993C-01F26D06E7DB/T+D%20Magazine.app/www/index.html#/tab/news
+2014-02-01 18:58:07.939 T+D Magazine[4069:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-01 18:58:07.945 T+D Magazine[4069:80b] Unlimited access to network resources
+2014-02-01 18:58:07.962 T+D Magazine[4069:80b] [CDVTimer][statusbar] 5.115986ms
+2014-02-01 18:58:07.962 T+D Magazine[4069:80b] [CDVTimer][TotalPluginStartup] 5.501986ms
+2014-02-01 18:58:08.005 T+D Magazine[4069:80b] Resetting plugins due to page load.
+2014-02-01 18:58:08.226 T+D Magazine[4069:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/81600C27-C686-4D0A-993C-01F26D06E7DB/T+D%20Magazine.app/www/index.html#/tab/news
+2014-02-01 18:58:33.310 T+D Magazine[4069:80b] Media with id 45d0a27e-b7ee-361f-b3f0-9f668cb0eff7 released
+2014-02-01 19:06:24.702 T+D Magazine[5396:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-01 19:06:24.708 T+D Magazine[5396:80b] Unlimited access to network resources
+2014-02-01 19:06:24.727 T+D Magazine[5396:80b] [CDVTimer][statusbar] 4.909039ms
+2014-02-01 19:06:24.727 T+D Magazine[5396:80b] [CDVTimer][TotalPluginStartup] 5.321980ms
+2014-02-01 19:06:24.792 T+D Magazine[5396:80b] Resetting plugins due to page load.
+2014-02-01 19:06:24.908 T+D Magazine[5396:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/81600C27-C686-4D0A-993C-01F26D06E7DB/T+D%20Magazine.app/www/index.html
+2014-02-01 19:07:19.355 T+D Magazine[6604:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-01 19:07:19.360 T+D Magazine[6604:80b] Unlimited access to network resources
+2014-02-01 19:07:19.381 T+D Magazine[6604:80b] [CDVTimer][statusbar] 4.575014ms
+2014-02-01 19:07:19.381 T+D Magazine[6604:80b] [CDVTimer][TotalPluginStartup] 4.948974ms
+2014-02-01 19:07:19.446 T+D Magazine[6604:80b] Resetting plugins due to page load.
+2014-02-01 19:07:19.573 T+D Magazine[6604:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/81600C27-C686-4D0A-993C-01F26D06E7DB/T+D%20Magazine.app/www/index.html
+2014-02-01 19:08:35.240 T+D Magazine[7832:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-01 19:08:35.245 T+D Magazine[7832:80b] Unlimited access to network resources
+2014-02-01 19:08:35.266 T+D Magazine[7832:80b] [CDVTimer][statusbar] 6.164968ms
+2014-02-01 19:08:35.267 T+D Magazine[7832:80b] [CDVTimer][TotalPluginStartup] 6.658971ms
+2014-02-01 19:08:35.333 T+D Magazine[7832:80b] Resetting plugins due to page load.
+2014-02-01 19:08:35.446 T+D Magazine[7832:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/81600C27-C686-4D0A-993C-01F26D06E7DB/T+D%20Magazine.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-03-04 16:13:43.434 T+D Magazine[15624:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-04 16:13:43.467 T+D Magazine[15624:80b] Unlimited access to network resources
+2014-03-04 16:13:43.870 T+D Magazine[15624:80b] [CDVTimer][statusbar] 69.058955ms
+2014-03-04 16:13:43.871 T+D Magazine[15624:80b] [CDVTimer][TotalPluginStartup] 69.564998ms
+2014-03-04 16:13:43.995 T+D Magazine[15624:80b] Resetting plugins due to page load.
+2014-03-04 16:13:44.337 T+D Magazine[15624:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/13B925E2-F944-4BC3-A874-65E9770AD71F/T+D%20Magazine.app/www/index.html#/tab/news
+2014-03-04 16:18:24.998 T+D Magazine[15624:80b] Media with id 80cdaf8c-08ea-285d-2e3b-d1928b114f83 released
+2014-03-04 16:52:33.705 T+D Magazine[17260:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-04 16:52:33.713 T+D Magazine[17260:80b] Unlimited access to network resources
+2014-03-04 16:52:33.735 T+D Magazine[17260:80b] [CDVTimer][statusbar] 5.658984ms
+2014-03-04 16:52:33.736 T+D Magazine[17260:80b] [CDVTimer][TotalPluginStartup] 6.133020ms
+2014-03-04 16:52:33.811 T+D Magazine[17260:80b] Resetting plugins due to page load.
+2014-03-04 16:52:34.053 T+D Magazine[17260:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/318D8B09-F09D-482D-B6DB-ABD93C7D496D/T+D%20Magazine.app/www/index.html#/tab/news
+2014-03-05 14:57:54.201 T+D Magazine[22571:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 14:57:54.232 T+D Magazine[22571:80b] Unlimited access to network resources
+2014-03-05 14:57:54.590 T+D Magazine[22571:80b] [CDVTimer][statusbar] 195.214033ms
+2014-03-05 14:57:54.590 T+D Magazine[22571:80b] [CDVTimer][TotalPluginStartup] 195.678949ms
+2014-03-05 14:57:54.719 T+D Magazine[22571:80b] Resetting plugins due to page load.
+2014-03-05 14:57:55.061 T+D Magazine[22571:80b] Finished load of: file:///Users/fsilva/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/318D8B09-F09D-482D-B6DB-ABD93C7D496D/T+D%20Magazine.app/www/index.html#/tab/news
+2014-03-05 14:58:56.417 T+D Magazine[22571:80b] THREAD WARNING: ['InAppBrowser'] took '43.729004' ms. Plugin should use a background thread.
