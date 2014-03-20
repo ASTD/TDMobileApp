@@ -1,17 +1,14 @@
-
 angular.module('tdmag', ['ionic', 'tdmag.services', 'tdmag.controllers', 'tdmag.directives'])
 
   .config(function($stateProvider, $urlRouterProvider) {
 
   $stateProvider
 
-
     .state('tab', {
       url: "/tab",
       abstract: true,
       templateUrl: "templates/tabs.html"
     })
-
 
     .state('tab.news-index', {
       url: '/news',
@@ -23,8 +20,6 @@ angular.module('tdmag', ['ionic', 'tdmag.services', 'tdmag.controllers', 'tdmag.
       }
     })
 	
-	
-
     .state('tab.news-detail', {
       url: '/news/:articleId',
       views: {
